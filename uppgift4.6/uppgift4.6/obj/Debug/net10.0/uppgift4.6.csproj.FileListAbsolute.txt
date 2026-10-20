@@ -1,0 +1,15 @@
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\uppgift4.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\uppgift4.6.AssemblyInfoInputs.cache
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\uppgift4.6.AssemblyInfo.cs
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\uppgift4.6.csproj.CoreCompileInputs.cache
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\bin\Debug\net10.0\uppgift4.6.exe
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\bin\Debug\net10.0\uppgift4.6.deps.json
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\bin\Debug\net10.0\uppgift4.6.runtimeconfig.json
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\bin\Debug\net10.0\uppgift4.6.dll
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\bin\Debug\net10.0\uppgift4.6.pdb
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\uppgift4.6.dll
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\refint\uppgift4.6.dll
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\uppgift4.6.pdb
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\uppgift4.6.genruntimeconfig.cache
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\ref\uppgift4.6.dll
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\uppgift4.6\uppgift4.6\obj\Debug\net10.0\uppgift4.6.csproj.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\bin\Debug\net10.0\Uppgift4.2.exe
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\bin\Debug\net10.0\Uppgift4.2.deps.json
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\bin\Debug\net10.0\Uppgift4.2.runtimeconfig.json
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\bin\Debug\net10.0\Uppgift4.2.dll
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\bin\Debug\net10.0\Uppgift4.2.pdb
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\Uppgift4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\Uppgift4.2.AssemblyInfoInputs.cache
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\Uppgift4.2.AssemblyInfo.cs
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\Uppgift4.2.csproj.CoreCompileInputs.cache
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\Uppgift4.2.dll
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\refint\Uppgift4.2.dll
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\Uppgift4.2.pdb
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\Uppgift4.2.genruntimeconfig.cache
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\ref\Uppgift4.2.dll
+C:\Users\diaz09001\Documents\GitHub\Inlämning Loop\Uppgift4.2\Uppgift4.2\obj\Debug\net10.0\Uppgift4.2.csproj.Up2Date
